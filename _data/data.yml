@@ -71,18 +71,6 @@ education:
         Majored in Business Intelligence and Analytics
         Minor in Marketing
 
-    
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 experiences:
     - role: Research Analyst/Account Manager
       time: 04/2019 - Present
@@ -107,20 +95,9 @@ experiences:
           - Increasing social media footprint to engage the target market
           - Driving Organic as well as Inorganic traffic using Google AdWords Analytics
           - Personalizing and tailoring email marketing campaigns and effective campaign delivery
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 publications:
-    title: Cerifications
+    title: Certifications
     intro: |
 
     papers:
