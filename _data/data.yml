@@ -7,69 +7,71 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Bhooshan Gore
+    tagline: Data/Business Analyst 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: bhooshan.gore@gmail.com
+    phone: +91 861 949 5335
+    website: bhooshangore.github.io #do not add http://
+    linkedin: bhooshan-gore
+    github: bhooshangore
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@BhooshanGore'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Hindi
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Marathi
+        level: Native
 
     interests:
-      - item: Climbing
+      - item: Data Analysis
         link:
 
-      - item: Snowboarding
+      - item: Entreprenuership
         link:
 
-      - item: Cooking
+      - item: Photography
         link:
+        
+      - item: Trekking
+        link:  
+        
+      - item: Blockchain
+        link:
+        
+      - item: Blog Writing
+        link:
+        
+      - item: Marathons
+        link:
+         
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      A Mar-Tech enthusiast with a demonstrated history of working in the media planning industry. Data
+      Science Aspirant with a knack of problem-solving, with a Go-Better Go-Faster attitude towards life
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MBATech in Business Intelligence & Analytics
+      university: NMIMS
+      time: 2014 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Majored in Business Intelligence and Analytics
+        Minor in Marketing
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
+    
       university: Bristol University
       time: 2007 - 2011
       details: |
@@ -81,39 +83,30 @@ education:
 
           - Bullet point
           - Bullet point
-
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Research Analyst/Account Manager
+      time: 04/2019 - Present
+      company: Brand India Studio
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        A digital media group with various products like a tabloid, digital
+        magazine, OTT platform, powered by blockchain to promote
+        entrepreneurship globally
 
-          - Bullet point
-          - Bullet point
+          - Making a strategic alliance with embassies, chamber of commerce to facilitate our clients.
+          - Promote and make alliance for execution for various products and services.
+          - On-boarding social media influencers, progressive businesses on the platform.
+          - Research 
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Management Intern
+      time: 05/2018 - 09/2018
+      company: SHETH Publishing House
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        As a Intern I was responsible for engaging and increasing digital footprint of SHETH Publishing
+        House, which are one of the largest players in children educational marketspace in Mumbai.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
+          - Increasing social media footprint to engage the target market
+          - Driving Organic as well as Inorganic traffic using Google AdWords Analytics
+          - Personalizing and tailoring email marketing campaigns and effective campaign delivery
       time: 2012 - 2014
       company: Amazon, London
       details: |
@@ -126,75 +119,44 @@ experiences:
           - Bullet point
           - Bullet point
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 publications:
-    title: Publications
+    title: Cerifications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Data Manipulation with Python Track
+        Issued By: DataCamp
+        credential id: b960397c2a27d7ee10767bcbf8c40a693a87c90e
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Lean Six Sigma Applications in IT
+        Issued By: Udemy
+        credential URL: http://ude.my/UC-H933UO9Z
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Software Requirement Engineering
+        Issued By: Udemy
+        credential URL: http://ude.my/UC-SEKC5P44
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: R
+        level: 75%
+
+      - name: SAS Visual Studio
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: SQL
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Tableau
         level: 85%
 
       - name: Sketch & Photoshop
-        level: 60%
+        level: 80%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="" target="_blank" rel="nofollow">Bhooshan gore</a>
