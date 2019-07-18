@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Bhooshan Gore
-    tagline: Data/Business Analyst 
+    tagline: Data Analyst/Research Analyst 
     avatar: profilepic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -60,8 +60,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A Mar-Tech enthusiast with a demonstrated history of working in the media planning industry. Data
-      Science Aspirant with a knack of problem-solving, with a Go-Better Go-Faster attitude towards life
+      Inquisitive by nature and loves to learn about engineering experiences from others. I like to experiment with Data journalism based on Visual storytelling and data visualization. Interested in Data Science, Product Management, and Programming Languages. Eager to work on a combination of these areas to build products having an impact on someone's daily life.
 
 education:
     - degree: MBATech in Business Intelligence & Analytics
